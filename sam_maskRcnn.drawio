@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="dZab3sYYKwb_Ay7ELcqJ">
-    <mxGraphModel dx="2261" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2723" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,6 +234,9 @@
         </mxCell>
         <mxCell id="ceJrU3UfatOKnmbEFpwe-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Feature extraction" vertex="1">
           <mxGeometry height="60" width="120" x="578" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="ceJrU3UfatOKnmbEFpwe-80" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i&gt;RGB feature extraction architecture&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="576" x="-60" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
